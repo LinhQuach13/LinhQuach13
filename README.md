@@ -14,13 +14,13 @@ You can connect with me through [![LinkedIn][1.1]][1]
 
 **LANGUAGES AND TOOLS:**
 
-🌱  C++
-
 &#128998; Command line
 
 &#129374; SQL
 
 &#128013; Python
+
+🌱  C++
 
 
 
