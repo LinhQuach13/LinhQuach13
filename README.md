@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hello! My name is Linh. <img src="https://media.tenor.com/images/6ff5d3af67676148ad2b4b2da2883b53/tenor.gif" width="30px">
 
-<!--
-**LinhQuach13/LinhQuach13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Developing Data Scientist with a passion for analyzing data and coding.**
 
-Here are some ideas to get you started:
+Started my career in medicine and transitioning into the Data Scientist Life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can connect with me through [![LinkedIn][1.1]][1]
+
+[1.1]: https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_square_16x16.png
+
+
+[1]: https://www.linkedin.com/in/linhq61/
+
+
+**LANGUAGES AND TOOLS:**
+
+🌱  C++
+
+&#128998; Command line
+
+&#129374; SQL
+
+&#128013; Python
+
+
+
+
+
+
+
+
+
+
+
+
