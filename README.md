@@ -24,7 +24,7 @@ You can connect with me through [![LinkedIn][1.1]][1]
 
 
 
-# Fun Facts &#129412
+# Fun Facts 🦄
 <details>
   <summary> Click to here to expand for additional fun facts!</summary>
   
