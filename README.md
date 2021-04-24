@@ -27,7 +27,7 @@ You can connect with me through [![LinkedIn][1.1]][1]
 <!---To hide any specific stats, you can pass a query parameter ?hide= with comma-separated values.
 Options: &hide=stars,commits,prs,issues,contribs--->
 
-![Linh's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinhQuach13&hide=prs,contribs&show_icons=true&theme=onedark)
+![Linh's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinhQuach13&hide=prs,contribs&show_icons=true&theme=dark)
 
 
 
