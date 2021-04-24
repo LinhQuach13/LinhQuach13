@@ -40,7 +40,7 @@ Options: &hide=stars,commits,prs,issues,contribs--->
   
   - &#128571; Cat Person
   - &#127794; Enjoy Hiking
-  -<img src="https://user-images.githubusercontent.com/80718476/115971610-03b1ab80-a50f-11eb-83d5-411c1d8642e5.png" width="25" height="25"> Fan of Animal Crossing
+  - <img src="https://user-images.githubusercontent.com/80718476/115971610-03b1ab80-a50f-11eb-83d5-411c1d8642e5.png" width="25" height="25"> Fan of Animal Crossing
 </details>
 
 
