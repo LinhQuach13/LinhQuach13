@@ -24,7 +24,14 @@ You can connect with me through [![LinkedIn][1.1]][1]
 
 
 
-
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Fun Facts
+  - &#128571; Cat Person
+  - &#127794; Enjoy Hiking
+  - ![image](https://user-images.githubusercontent.com/80718476/115971355-9b15ff00-a50d-11eb-92b9-efc7f7402f56.png) Animal Crossing Addict
+</details>
 
 
 
