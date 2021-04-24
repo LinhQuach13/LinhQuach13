@@ -24,7 +24,6 @@ You can connect with me through [![LinkedIn][1.1]][1]
 
 
 
-[![Linh's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinhQuach13)](https://github.com/anuraghazra/github-readme-stats)
 ![Linh's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinhQuach13&show_icons=true&theme=radical)
 
 
