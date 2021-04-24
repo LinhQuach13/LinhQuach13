@@ -25,7 +25,7 @@ You can connect with me through [![LinkedIn][1.1]][1]
 
 
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Click to expand for Fun Facts!</summary>
   
    ## Fun Facts
   - &#128571; Cat Person
