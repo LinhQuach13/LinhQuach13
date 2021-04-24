@@ -31,7 +31,6 @@ You can connect with me through [![LinkedIn][1.1]][1]
   - &#128571; Cat Person
   - &#127794; Enjoy Hiking
   - <img src="https://user-images.githubusercontent.com/80718476/115971610-03b1ab80-a50f-11eb-83d5-411c1d8642e5.png" width="30" height="30"> Animal Crossing Addict
-     * Sub bullets
 </details>
 
 
