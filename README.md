@@ -23,7 +23,9 @@ You can connect with me through [![LinkedIn][1.1]][1]
 
 - 🌱  C++
 
-**Stats**
+
+
+**Stats:**
 <!---GitHub Stats--->
 <!---To hide any specific stats, you can pass a query parameter ?hide= with comma-separated values.
 Options: &hide=stars,commits,prs,issues,contribs--->
