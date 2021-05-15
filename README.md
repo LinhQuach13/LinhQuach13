@@ -20,6 +20,8 @@ You can connect with me through [![LinkedIn][1.1]][1]
 - &#129374; SQL
 
 - &#128013; Python
+- <img src= "https://user-images.githubusercontent.com/80718476/118376549-3723ab00-b58e-11eb-879a-2a0540f83610.png" width= "25" height= "25"> Tableau
+
 
 - 🌱  C++
 
