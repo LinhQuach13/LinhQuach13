@@ -40,7 +40,7 @@ Options: &hide=stars,commits,prs,issues,contribs--->
 <details>
   <summary> Click here to expand for additional fun facts!</summary>
   
-  - &#128571; Cat Person
+  - 😺 Cat Person
   - &#127794; Enjoy Hiking
 
 
