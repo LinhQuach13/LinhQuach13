@@ -28,7 +28,6 @@ You can connect with me through [![LinkedIn][1.1]][1]
 ![](https://img.shields.io/static/v1?message=MatPlotLib&logo=python&labelColor=5c5c5c&color=6495ED&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Seaborn&logo=python&labelColor=5c5c5c&color=6495ED&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Canva&logo=canva&labelColor=5c5c5c&color=6495ED&logoColor=white&label=%20)
-![](https://img.shields.io/static/v1?message=Markdown&logo=markdown&labelColor=5c5c5c&color=6495ED&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=GitHub&logo=github&labelColor=5c5c5c&color=6495ED&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Trello&logo=trello&labelColor=5c5c5c&color=6495ED&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Excel&logo=microsoft-excel&labelColor=5c5c5c&color=6495ED&logoColor=white&label=%20)
