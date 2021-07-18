@@ -49,7 +49,7 @@ Options: &hide=stars,commits,prs,issues,contribs--->
 
 
 
-# FUN FACTS 
+# Fun Facts
 <details>
   <summary> Click here to expand for additional fun facts!</summary>
   
