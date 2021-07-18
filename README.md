@@ -14,7 +14,7 @@ You can connect with me through [![LinkedIn][1.1]][1]
 
 
 **LANGUAGES AND TOOLS:**
-- <img src= "https://user-images.githubusercontent.com/80718476/126056944-4e52ab0c-a27a-46a7-976a-5a1d2c3d3617.jpeg" width= "25" height= "25"> Command Line
+<img src= "https://user-images.githubusercontent.com/80718476/126056944-4e52ab0c-a27a-46a7-976a-5a1d2c3d3617.jpeg" width= "25" height= "25"> Command Line
 
 ![](https://img.shields.io/static/v1?message=Python&logo=python&labelColor=5c5c5c&logoColor=FFFFFF&color=85C1E9&label=%20)
 ![](https://img.shields.io/static/v1?message=C++&logo=cplusplus&labelColor=5c5c5c&logoColor=FFFFFF&color=85C1E9&label=%20)
