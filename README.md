@@ -1,4 +1,4 @@
-# Hello! My name is Linh. <img src="https://media.tenor.com/images/6ff5d3af67676148ad2b4b2da2883b53/tenor.gif" width="30px">
+<img src="https://github.com/LinhQuach13/readme_files/blob/master/main_banner.gif">
 
 **Developing Data Scientist with a passion for analyzing data and coding.**
 
