@@ -36,7 +36,6 @@ You can connect with me through [![LinkedIn][1.1]][1]
 ![](https://img.shields.io/static/v1?message=Markdown&logo=markdown&labelColor=5c5c5c&color=85C1E9&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=VS_Code&logo=visual-studio-code&labelColor=5c5c5c&color=85C1E9&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Slack&logo=slack&labelColor=5c5c5c&color=85C1E9&logoColor=white&label=%20)
-- <img src= "https://user-images.githubusercontent.com/80718476/126056944-4e52ab0c-a27a-46a7-976a-5a1d2c3d3617.jpeg" width= "25" height= "25"> Command Line
 
 
 
