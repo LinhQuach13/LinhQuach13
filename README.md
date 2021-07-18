@@ -53,7 +53,7 @@ Options: &hide=stars,commits,prs,issues,contribs--->
   
   - 😺 Cat Person
   - &#127794; Enjoy Hiking
-  - <img_scr="https://user-images.githubusercontent.com/80718476/126057277-81cd39ea-de8b-42fa-b907-0b7d4980e7a3.jpeg", width= "25" height= "25">Love making and eating S'mores
+  - <img_scr="https://user-images.githubusercontent.com/80718476/126057277-81cd39ea-de8b-42fa-b907-0b7d4980e7a3.jpeg", width= "25" height= "25"> Love making and eating S'mores
 
 
 
