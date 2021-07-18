@@ -12,7 +12,6 @@ You can connect with me through [![LinkedIn][1.1]][1]
 [1]: https://www.linkedin.com/in/linhq61/
 
 
-<span style="color:5F5B8F">
   
 **LANGUAGES AND TOOLS:**
 
@@ -40,10 +39,8 @@ You can connect with me through [![LinkedIn][1.1]][1]
 ![](https://img.shields.io/static/v1?message=Slack&logo=slack&labelColor=5c5c5c&color=85C1E9&logoColor=white&label=%20)
 
 
-</span>
 
-
-**STATS:**
+**Gitub STATS:**
 <!---GitHub Stats--->
 <!---To hide any specific stats, you can pass a query parameter ?hide= with comma-separated values.
 Options: &hide=stars,commits,prs,issues,contribs--->
