@@ -31,7 +31,6 @@ You can connect with me through [![LinkedIn][1.1]][1]
 ![](https://img.shields.io/static/v1?message=Markdown&logo=markdown&labelColor=5c5c5c&color=6495ED&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=GitHub&logo=github&labelColor=5c5c5c&color=6495ED&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=JupyterLab&logo=jupyter&labelColor=5c5c5c&color=6495ED&logoColor=white&label=%20)
-![](https://img.shields.io/static/v1?message=DeepNote&logo=deepnote&labelColor=5c5c5c&color=6495ED&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Trello&logo=trello&labelColor=5c5c5c&color=6495ED&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Excel&logo=microsoft-excel&labelColor=5c5c5c&color=6495ED&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Markdown&logo=markdown&labelColor=5c5c5c&color=6495ED&logoColor=white&label=%20)
