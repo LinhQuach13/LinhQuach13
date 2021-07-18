@@ -37,7 +37,7 @@ You can connect with me through [![LinkedIn][1.1]][1]
 ![](https://img.shields.io/static/v1?message=Excel&logo=microsoft-excel&labelColor=5c5c5c&color=85C1E9&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Markdown&logo=markdown&labelColor=5c5c5c&color=85C1E9&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=VS_Code&logo=visual-studio-code&labelColor=5c5c5c&color=85C1E9&logoColor=white&label=%20)
-![](https://img.shields.io/static/v1?message=Slack&logo=slack&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=Slack&logo=slack&labelColor=5c5c5c&color=85C1E9&logoColor=white&label=%20)
 
 
 
