@@ -27,7 +27,7 @@ You can connect with me through [![LinkedIn][1.1]][1]
 
 
 ![](https://img.shields.io/static/v1?message=Python&logo=python&labelColor=5c5c5c&logoColor=FFFFFF&color=85C1E9&label=%20)
-![](https://img.shields.io/static/v1?message=C++&logo=c++&labelColor=5c5c5c&logoColor=FFFFFF&color=85C1E9&label=%20)
+![](https://img.shields.io/static/v1?message=Ctt&logo=ctt&labelColor=5c5c5c&logoColor=FFFFFF&color=85C1E9&label=%20)
 ![](https://img.shields.io/static/v1?message=SQL&logo=mysql&labelColor=5c5c5c&color=85C1E9&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Tableau&logo=tableau&labelColor=5c5c5c&color=85C1E9&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Jupyter-Lab/Jupyter-Notebook&logo=jupyter&labelColor=5c5c5c&color=85C1E9&logoColor=white&label=%20)
