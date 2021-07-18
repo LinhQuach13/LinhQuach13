@@ -14,6 +14,7 @@ You can connect with me through [![LinkedIn][1.1]][1]
 
 
 **LANGUAGES AND TOOLS:**
+
 ![](https://img.shields.io/static/v1?message=Python&logo=python&labelColor=5c5c5c&logoColor=FFFFFF&color=85C1E9&label=%20)
 ![](https://img.shields.io/static/v1?message=C++&logo=cplusplus&labelColor=5c5c5c&logoColor=FFFFFF&color=85C1E9&label=%20)
 ![](https://img.shields.io/static/v1?message=SQL&logo=mysql&labelColor=5c5c5c&color=85C1E9&logoColor=white&label=%20)
