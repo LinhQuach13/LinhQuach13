@@ -30,7 +30,8 @@ You can connect with me through [![LinkedIn][1.1]][1]
 
 ![](https://img.shields.io/static/v1?message=SQL&logo=mysql&labelColor=85C1E9&color=2f5f98&logoColor=white&label=%20)
 
-![](https://img.shields.io/static/v1?message=Tableau&logo=tableau&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
+![](https://img.shields.io/static/v1?message=Tableau&logo=tableau&labelColor=5c5c5c&color=2f5f98&logoColor=85C1E9&label=%20)
+
 ![](https://img.shields.io/static/v1?message=GoogleAnalytics&logo=google-analytics&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=Pandas&logo=pandas&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
 ![](https://img.shields.io/static/v1?message=SciKit-Learn&logo=scikit-learn&labelColor=5c5c5c&color=2f5f98&logoColor=white&label=%20)
