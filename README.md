@@ -53,7 +53,7 @@ Options: &hide=stars,commits,prs,issues,contribs--->
   
   - 😺 Cat Person
   - &#127794; Enjoy Hiking
-  - &#128293 Love making and eating S'mores
+  - &#128293; Love making and eating S'mores
 
 
 
