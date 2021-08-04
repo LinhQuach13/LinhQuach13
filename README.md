@@ -9,7 +9,7 @@ You can connect with me through [![LinkedIn][1.1]][1]
 [1.1]: https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_square_16x16.png
 
 
-[1]: https://www.linkedin.com/in/linhq61/
+[1]: https://www.linkedin.com/in/linhquach61/
 
 
   
