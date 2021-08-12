@@ -1,8 +1,8 @@
-<img src="https://github.com/LinhQuach13/readme_files/blob/master/main_banner.gif">
+<img src="https://github.com/LinhQuach13/readme_files/blob/master/Linh%20Quach.gif">
 
-**Developing Data Scientist with a passion for analyzing data and coding.**
+**Data Scientist with a passion for analyzing data and coding.**
 
-Started my career in medicine and transitioning into the Data Scientist life.
+Started my career in medicine and transitioning into Data Science.
 
 You can connect with me through [![LinkedIn][1.1]][1]
 
