@@ -2,7 +2,7 @@
 
 **Data Scientist with a passion for analyzing data and coding.**
 
-Started my career in medicine and transitioning into the Data Science world.
+Started my career in medicine and transitioning into the Data Science Field.
 
 You can connect with me through [![LinkedIn][1.1]][1]
 
